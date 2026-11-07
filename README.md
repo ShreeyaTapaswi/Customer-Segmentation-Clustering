@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 🛍️ Customer Segmentation using Clustering
@@ -222,3 +223,6 @@ Released under the [MIT License](LICENSE).
 [![GitHub](https://img.shields.io/badge/GitHub-ShreeyaTapaswi-181717?logo=github)](https://github.com/ShreeyaTapaswi)
 
 <div align="center">⭐ If you found this useful, please star the repo!</div>
+=======
+# Customer-Segmentation-Clustering
+>>>>>>> b96b7be8e0bb034883870d2f04d3fad810a36345
