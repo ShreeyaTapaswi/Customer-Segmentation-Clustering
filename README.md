@@ -222,5 +222,4 @@ Released under the [MIT License](LICENSE).
 [![GitHub](https://img.shields.io/badge/GitHub-ShreeyaTapaswi-181717?logo=github)](https://github.com/ShreeyaTapaswi)
 
 <div align="center">⭐ If you found this useful, please star the repo!</div>
-=======
-# Customer-Segmentation-Clustering
+
