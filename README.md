@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 
 # 🛍️ Customer Segmentation using Clustering
@@ -225,4 +224,3 @@ Released under the [MIT License](LICENSE).
 <div align="center">⭐ If you found this useful, please star the repo!</div>
 =======
 # Customer-Segmentation-Clustering
->>>>>>> b96b7be8e0bb034883870d2f04d3fad810a36345
